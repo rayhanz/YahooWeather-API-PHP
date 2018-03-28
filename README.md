@@ -4,3 +4,6 @@ This library is a PHP implementation of Yahoo Weather API. It allows querying fo
 ## How to use ?
 
 Just download and try to explore your self.Demoes and advances usage will be added here soon.Till then Stay tuned :)
+
+## Authors & Contributers
+* **[Rayhan Sardar](https://fb.me/lifehacker.rayhan)** - *Initial Work*
