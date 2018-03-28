@@ -1,2 +1,2 @@
 # YahooWeather-API-PHP
-This repository holds a simple PHP Class that can get Weather Updates with the help of Yahoo Weather API
+This library is a PHP implementation of Yahoo Weather API. It allows querying for many weather conditions for specified location on the world.It supports both WOEID and City Name Search and soon gonna add cache system to it.
